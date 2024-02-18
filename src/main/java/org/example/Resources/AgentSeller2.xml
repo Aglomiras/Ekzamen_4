@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cfg>
+    <name>Seller2</name>
+    <books>
+        <book>General</book>
+        <book>RibaBuba</book>
+        <book>FighterClub</book>
+    </books>
+    <golds>
+        <gold>210</gold>
+        <gold>160</gold>
+        <gold>165</gold>
+    </golds>
+</cfg>
